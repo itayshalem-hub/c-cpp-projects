@@ -1,0 +1,11 @@
+cmake-build-*/
+.idea/
+*.o
+*.out
+*.bin
+*.log
+*.stdout
+*.dSYM/
+.DS_Store
+ex2/bus_program
+ex3A/tweets_generator
