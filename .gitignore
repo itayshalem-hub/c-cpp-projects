@@ -7,5 +7,5 @@ cmake-build-*/
 *.stdout
 *.dSYM/
 .DS_Store
-ex2/bus_program
-ex3A/tweets_generator
+ex2-bus-line-sorter/bus_program
+ex3a-markov-tweet-generator/tweets_generator
